@@ -1,0 +1,1 @@
+module github.com/mutsaevz/go-mod-init-finance
